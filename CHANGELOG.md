@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.0.1
+
+- Fixed potential bug with `return` in a do/end block.
+
 ## 1.0
 
 - No changes. Prior version running stable in production for a few weeks,
