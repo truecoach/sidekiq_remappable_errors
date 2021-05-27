@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/truecoach/sidekiq_remappable_errors.svg?branch=main)](https://travis-ci.com/truecoach/sidekiq_remappable_errors)
+[![TrueCoach](https://circleci.com/gh/truecoach/sidekiq_remappable_errors/tree/main.svg?style=svg)](https://circleci.com/gh/truecoach/sidekiq_remappable_errors/?branch=main)
 
 # SidekiqRemappableErrors
 
