@@ -2,4 +2,9 @@
 
 ## 1.0
 
-- Initial release
+- No changes. Prior version running stable in production for a few weeks,
+time to commit to stability.
+
+## 0.7.0
+
+- README updates
