@@ -101,10 +101,11 @@ module SidekiqRemappableErrors
         retry_opt = sidekiq_options[:retry]
 
         # 25 is the hardcoded default in Sidekiq
-        return 0 if retry_opt == false
-        return 25 if retry_opt == true
-
-        retry_opt
+        case retry_opt
+          when false then 0
+          when true then 25
+          else retry_opt
+        end
       end
     end
 

@@ -7,6 +7,9 @@ AllCops:
 Layout/ArgumentAlignment:
   Enabled: false
 
+Layout/CaseIndentation:
+  Enabled: false
+
 Layout/LineLength:
   Max: 120
 
